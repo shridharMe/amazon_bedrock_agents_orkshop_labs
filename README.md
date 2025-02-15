@@ -1,2 +1,2 @@
-# amazon_bedrock_agents_orkshop_labs
+# amazon_bedrock_agents_workshop_labs
 Amazon Bedrock Agents Workshop
